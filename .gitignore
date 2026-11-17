@@ -56,3 +56,7 @@ ui-debug.log*
 functions/.env
 functions/.secret.local
 *service-account*.json
+
+.cartographer/
+.claude/
+CLAUDE.md
